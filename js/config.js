@@ -16,7 +16,7 @@ window.LW_CONFIG = {
     namaPacar:        "Monic",        // misal: "Alya"
     namaSaya:         "Niam",         // misal: "Bima"
     panggilanSayang:  "kotok",  // misal: "beb" / "duh"
-    tanggalUlangTahun:"06 November 2004", // misal: "12 Mei 2004"
+    tanggalUlangTahun:"06 November 2026", // misal: "12 Mei 2004"
     ucapanPembuka:
       "Happy Birthday - selamat ulang tahun, sayang. " +
       "Kamar kecil ini aku buat khusus buat kamu, isinya kenangan kita berdua."
